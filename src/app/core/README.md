@@ -6,7 +6,7 @@ All the core/generic assets used accross the application is created in core fold
 
 - components
     - Generic components used in the application
-    - Eg: Loading/Spinner component
+    - Eg: Loader/Spinner component
 - constants
     - Constant values/text used in components and services.
 - directives
