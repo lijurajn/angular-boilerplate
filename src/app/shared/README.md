@@ -1,6 +1,6 @@
 # AngularBoilerplate - Shared folder
 
-Reusable assets used across mutliple features will be created inside the shared folder.
+Reusable assets used across multiple features will be created inside the shared folder.
 
 ## Module detail
 
