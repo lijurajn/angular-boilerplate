@@ -1,4 +1,4 @@
-# AngularBoilerplate - core/styles
+# AngularBoilerplate - assets/styles
 
 ## Code scaffolding
 
