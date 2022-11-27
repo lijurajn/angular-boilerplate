@@ -1,6 +1,6 @@
 # AngularBoilerplate - core
 
-All the core/generic assets used accross the application is created in core folder
+All the core/generic assets used across the application is created in core folder
 
 ## Module detail
 
